@@ -1,0 +1,14 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+  background-color: lightblue;
+  height: 50px;
+  align-items: center;
+  font-family: "Century Gothic";
+  font-weight: bold;
+  text-decoration: none;
+}
+.nav{
+  text-decoration: none;
+  color: #282c34;
+}

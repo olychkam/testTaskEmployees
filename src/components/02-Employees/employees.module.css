@@ -1,0 +1,13 @@
+.list {
+  text-align: center;
+  list-style-type: none;
+}
+.container{
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: space-evenly;
+}
+.empl{
+  margin: 18px;
+  font-size: 18px;
+}

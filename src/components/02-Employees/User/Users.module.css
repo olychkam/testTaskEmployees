@@ -1,0 +1,21 @@
+.employeesOverlay {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+}
+
+.user {
+    height: 250px;
+    flex: 0 0 1;
+    margin: 10px;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 6px 0px rgba(0, 0, 0, 0.3);
+}
+
+img {
+    max-width: 100%;
+}
+
+p {
+    padding: 0 10px 10px;
+}
